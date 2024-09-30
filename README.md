@@ -1,6 +1,6 @@
 
 ### 📞 Contact 
-E-mail : seyeonJeong@gmail.com
+E-mail : seyeonJeong@yonsei.ac.kr
 
 Tistory : https://happyseyeonhouse.tistory.com/
 
