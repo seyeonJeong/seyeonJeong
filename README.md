@@ -13,7 +13,7 @@ Department of Computer Science
 
 B.S in Computer Science
 
-#### Yonsei University (2024.09 ~ )
+#### Yonsei University (2024.09 ~ 2026.08)
 
 Graduated School of Information
 
