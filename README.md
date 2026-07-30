@@ -18,11 +18,3 @@ B.S in Computer Science
 Graduated School of Information
 
 M.S in Business AI and Big Data Analytics
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seyeonJeong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/seyeonJeong"
-  width="600"
-  height="300"
-/>
-</a>
