@@ -1,10 +1,7 @@
 
 ### 📞 Contact 
 E-mail : seyeonJeong@yonsei.ac.kr
-
-Tistory : https://happyseyeonhouse.tistory.com/
-
-velog : https://velog.io/@wjdtpdus828/posts
+Personal Page : https://seyeon-portfolio-pi.vercel.app/?lang=ko
 
 ### 📚 Education 
 #### Chungbuk National University (2018.03 ~ 2024.02)
