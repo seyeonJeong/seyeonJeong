@@ -1,6 +1,8 @@
 
 ### 📞 Contact 
 E-mail : seyeonJeong@yonsei.ac.kr
+
+
 Personal Page : https://seyeon-portfolio-pi.vercel.app/?lang=ko
 
 ### 📚 Education 
